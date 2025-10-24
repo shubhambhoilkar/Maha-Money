@@ -1,0 +1,489 @@
+{
+    "itemId": "13709473-4b3e-40cc-9b42-9785063cf1e5",
+    "itemType": "profile",
+    "version": 2,
+    "properties": {
+        "nbOfVisits": 1,
+        "netWorth": {},
+        "lastVisit": "2025-10-15T05:42:50Z",
+        "firstVisit": "2025-10-15T05:42:50Z",
+        "financialData": {
+            "assets": {
+                "ppfSelfTotal": [
+                    9000
+                ],
+                "KVP": [
+                    18000
+                ],
+                "insurancePolicies": [
+                    3600
+                ],
+                "savingAccounts": [
+                    {
+                        "bank": "HDFC Bank",
+                        "operationMode": "Self",
+                        "balance": "99000",
+                        "branchName": "Koparkhairne",
+                        "accountNumber": "123456789",
+                        "type": "Regular",
+                        "accountHolderName": "Sam",
+                        "ifscCode": "HDFC0000123"
+                    }
+                ],
+                "preciousMetalsTotal": [
+                    3000000
+                ],
+                "pensionFundValue": [
+                    18000
+                ],
+                "corporateDeposits": [
+                    27000
+                ],
+                "liquidMutualFunds": [
+                    {
+                        "fundType": "Liquid",
+                        "sipAmount": "1800",
+                        "duration": "2",
+                        "compounding": "Monthly",
+                        "redemptionAmount": "27000",
+                        "returnRate": "9",
+                        "exitLoad": "9",
+                        "sipFrequency": "Monthly",
+                        "initialAmount": "1800",
+                        "fundName": "Demo Fund",
+                        "taxOnReturns": "No",
+                        "startDate": "2024-08-18"
+                    }
+                ],
+                "vehicles": [
+                    {
+                        "yearReg": "2022",
+                        "vehicleModel": "Wagon R",
+                        "vehicleNumber": "mh43by1234",
+                        "purchDate": "2022-07-20",
+                        "currentValuation": "900000",
+                        "purchPrice": "675000",
+                        "make": "Suzuki",
+                        "vehicleType": "Car"
+                    }
+                ],
+                "equityMutualFunds": [
+                    3600
+                ],
+                "bonds": [
+                    1800
+                ],
+                "immovableAssetsTotal": [
+                    3000000
+                ],
+                "debtMutualFundsTotal": [
+                    5000
+                ],
+                "ppfSelf": [
+                    {
+                        "interestRate": "3",
+                        "startingYear": "2025",
+                        "withdrawalOption": "No",
+                        "investmentFrequency": "5",
+                        "maturityAccount": "50000",
+                        "occupationStatus": "Employee",
+                        "branchName": "Vashi",
+                        "bankName": "RBL",
+                        "monthlyInvestment": "4000",
+                        "accountNumber": "987654321",
+                        "accountHolderName": "Sam",
+                        "duration": "1",
+                        "additionalDeposits": "1800",
+                        "maturityDate": "2026-12-28",
+                        "annualContribution": "36000",
+                        "taxOnInterest": "Yes",
+                        "initialInvestment": "9000",
+                        "openDate": "2025-07-27",
+                        "ifscCode": "RBLI0000123",
+                        "compoundingFrequency": "Annually"
+                    }
+                ],
+                "shares": [
+                    {
+                        "categoryType": "Hybrid",
+                        "riskType": "Moderately Low",
+                        "subcategoryType": "Long Duration",
+                        "investmentDuration": "4",
+                        "sellPrice": "2700",
+                        "currency": "INR",
+                        "noShares": "2",
+                        "initialInvestment": "4500",
+                        "purchasePrice": "2100",
+                        "shareType": "Reliance Industries Ltd."
+                    }
+                ],
+                "artAntiques": [
+                    36000
+                ],
+                "savingAccountTotal": [
+                    99000
+                ],
+                "currentAccountTotal": [
+                    18000
+                ],
+                "debentures": [
+                    900
+                ],
+                "immovableAssets": [
+                    {
+                        "propertyStatus": "Owned",
+                        "country": "India",
+                        "purchaseDate": "2001-01-01",
+                        "currentMarketValue": "3000000",
+                        "city": "Navi Mumbai",
+                        "propertyType": "Residential",
+                        "district": "Thane",
+                        "areaSqFt": "350",
+                        "purchasePrice": "375000",
+                        "state": "Maharashtra"
+                    }
+                ],
+                "postOfficeDeposits": [
+                    4500
+                ],
+                "annuities": [],
+                "epf": [
+                    {
+                        "interestRate": "7",
+                        "uan": "78894565123321",
+                        "endDate": "2026-10-12",
+                        "pfTrustDetails": "Nil",
+                        "currentBalance": "30000",
+                        "employeeContribution": "Monthly",
+                        "bankName": "Federal Bank",
+                        "contributionType": "Voluntary",
+                        "monthlySalary": "4000",
+                        "amountWithdrawn": "3600",
+                        "withdrawalDate": "2024-12-18",
+                        "employerContribution": "Monthly",
+                        "bankBranchd": "Kharghar",
+                        "totalContribution": "14",
+                        "epfAccountNumber": "654987321",
+                        "lastContributionDate": "2025-10-10",
+                        "withdrawalReason": "Personal",
+                        "bankAccountNumber": "684279513",
+                        "contributionPercentage": "2",
+                        "ifscCode": "FRED0000123",
+                        "startDate": "2024-08-02"
+                    }
+                ],
+                "epfTotal": [
+                    30000
+                ],
+                "sharesTotal": [
+                    4500
+                ],
+                "recurringDeposit": [
+                    {
+                        "interestRate": "8",
+                        "maturityAmount": "18000",
+                        "bank": "Axis Bank",
+                        "customerType": "Individual",
+                        "interestOption": "Quarterly",
+                        "installmentAmount": "9000",
+                        "customerSegment": "Student",
+                        "depositTenure": 60,
+                        "branchName": "Ghansoli",
+                        "accountNumber": "258741369",
+                        "ifscCode": "AXIS0000123",
+                        "accountHolderName": "Sam"
+                    }
+                ],
+                "NSC": [
+                    9000
+                ],
+                "vehiclesTotal": [
+                    900000
+                ],
+                "NPSt1n2": [
+                    9000
+                ],
+                "preciousMetals": [
+                    {
+                        "unit": "",
+                        "quantity": "250",
+                        "purity": "22",
+                        "metalType": "Gold",
+                        "currentValue": "3000000"
+                    }
+                ],
+                "ppfSpouse": [
+                    {
+                        "interestRate": "9",
+                        "startingYear": "2024",
+                        "withdrawalOption": "No",
+                        "investmentFrequency": "12",
+                        "maturityAccount": "18000",
+                        "occupationStatus": "Employee",
+                        "branchName": "Thane",
+                        "bankName": "Indian Bank",
+                        "monthlyInvestment": "900",
+                        "accountNumber": "951786423",
+                        "accountHolderName": "Jaan",
+                        "duration": "9",
+                        "additionalDeposits": "99",
+                        "maturityDate": "2027-08-18",
+                        "annualContribution": "4500",
+                        "taxOnInterest": "No",
+                        "initialInvestment": "900",
+                        "openDate": "2024-08-18",
+                        "ifscCode": "THAN0009918",
+                        "compoundingFrequency": "Monthly"
+                    }
+                ],
+                "businessPartnership": [
+                    100000
+                ],
+                "liquidMutualFundsTotal": [
+                    1800
+                ],
+                "ppfSpouseTotal": [
+                    900
+                ],
+                "recurringDepositTotal": [
+                    9000
+                ],
+                "fixedDeposits": [
+                    {
+                        "fdAccountNumber": "147852369",
+                        "depositAmount": "27000",
+                        "interestRate": "9",
+                        "maturityAmount": "36000",
+                        "bank": "State Bank of India (SBI)",
+                        "interestOption": "Quarterly",
+                        "depositTenure": "4",
+                        "branchName": "Navi Mumbai",
+                        "ifscCode": "SBIN0000123",
+                        "accountHolderName": "Sam",
+                        "depositType": "Tax Saver"
+                    }
+                ],
+                "currentAccount": [
+                    {
+                        "bank": "ICICI Bank",
+                        "operationMode": "Self",
+                        "balance": "18000",
+                        "branchName": "Koparkhairne",
+                        "accountNumber": "789456123",
+                        "type": "Standard Current",
+                        "accountHolderName": "Sam",
+                        "ifscCode": "ICIC0000123"
+                    }
+                ],
+                "debtMutualFunds": [
+                    {
+                        "fundType": "Short-Term",
+                        "duration": "2",
+                        "mode": "SIP",
+                        "sipAmount": "3000",
+                        "riskProfile": "Low",
+                        "sipFrequency": "Quarterly",
+                        "investmentAmount": "5000",
+                        "investmentGoal": "Income",
+                        "sipStartDate": "2025-09-09",
+                        "fundName": "Demo Debt Fund"
+                    }
+                ],
+                "fixedDepositsTotal": [
+                    27000
+                ]
+            },
+            "liabilities": {
+                "personalLoan": [
+                    {
+                        "duration": 20,
+                        "bank": "IndusInd Bank",
+                        "repaymentAmount": "200000",
+                        "monthlyEMI": "1800",
+                        "loanAccountNumber": "357894612",
+                        "branchName": "",
+                        "type": "Savings",
+                        "ifscCode": "",
+                        "loanAmount": "180000",
+                        "rateInterst": "9"
+                    }
+                ],
+                "personalLoanTotal": [
+                    180000
+                ],
+                "creditCardDue": [
+                    {
+                        "interestRate": "4",
+                        "bank": "Canara Bank",
+                        "currentBalance": "45000",
+                        "dueDate": "2026-11-30",
+                        "avialCredit": "36000",
+                        "minPayment": "9000",
+                        "amountPayment": "18000",
+                        "applicantName": "Sam",
+                        "creditCard": "36000",
+                        "paymentDate": "2025-10-14"
+                    }
+                ],
+                "homeLoanTotal": [
+                    900000
+                ],
+                "otherLoans": [
+                    {
+                        "interestRate": "4",
+                        "duration": 1.6666666666666665,
+                        "bank": "Punjab National Bank (PNB)",
+                        "monthlyEMI": "2000",
+                        "loanAccountNumber": "798465132",
+                        "applicantName": "Sam",
+                        "type": "Home Improvement",
+                        "ifscCode": "",
+                        "loanAmount": "36000"
+                    }
+                ],
+                "carLoanTotal": [
+                    900000
+                ],
+                "otherBillsOutstandingTotal": [
+                    45000
+                ],
+                "otherBillsOutstanding": [
+                    {
+                        "totalAmount": "45000",
+                        "billPayment": "Quarterly",
+                        "billType": "Insurance Premium"
+                    }
+                ],
+                "creditDueTotal": [
+                    45000
+                ],
+                "homeLoan": [
+                    {
+                        "interestRate": "9",
+                        "districtName": "Raigard",
+                        "statusResidential": "RESIDENT INDIAN (RI)",
+                        "branchName": "",
+                        "propertyValue": "12500000",
+                        "applicantName": "Shubham",
+                        "bhkStatus": "3 BHK",
+                        "loanAmount": "900000",
+                        "duration": 53,
+                        "propertyStatus": "Under construction",
+                        "propertyLocation": "Kharghar, Navi Mumbai",
+                        "bank": "Bandhan Bank",
+                        "monthlyEMI": "36000",
+                        "loanAccountNumber": "9900000",
+                        "cityName": "Kharghar",
+                        "stateName": "Maharashtra",
+                        "propertyType": "Independent House",
+                        "squareFeet": "1800",
+                        "countryName": "India",
+                        "ifscCode": ""
+                    }
+                ],
+                "taxesDue": [
+                    {
+                        "taxFile": {},
+                        "taxLiability": "4500",
+                        "taxPayer": "Individual",
+                        "taxAmount": "1800",
+                        "age": "Less than 60 years",
+                        "assessmentYear": "2025 - 2026"
+                    }
+                ],
+                "otherLoanTotal": [
+                    36000
+                ],
+                "taxesDueTotal": [
+                    1800
+                ],
+                "carLoan": [
+                    {
+                        "yearReg": "2025",
+                        "insuranceAmount": "36000",
+                        "purchDate": "2025-08-18",
+                        "loanAmount": "900000",
+                        "rateInterest": "9",
+                        "duration": 24,
+                        "bank": "Kotak Mahindra Bank",
+                        "monthlyEMI": "18000",
+                        "loanAccountNumber": "990000",
+                        "vehicleNumber": "MH43JS0519",
+                        "purchPrice": "1400000",
+                        "ifscCode": "",
+                        "make": "Mahindra",
+                        "insuranceComp": "Maharashtra Bank",
+                        "carModel": "Thar"
+                    }
+                ]
+            }
+        },
+        "personalData": {
+            "spouseAliases": [
+                "Jaan"
+            ],
+            "monthlySalary": [],
+            "assets": [
+                7340100
+            ],
+            "netWorth": [
+                5232300
+            ],
+            "userBanks": [
+                "HDFC Bank",
+                "ICICI Bank",
+                "State Bank of India (SBI)",
+                "Axis Bank",
+                "RBL",
+                "Federal Bank",
+                "Bandhan Bank",
+                "Kotak Mahindra Bank",
+                "IndusInd Bank",
+                "Punjab National Bank (PNB)",
+                "Canara Bank"
+            ],
+            "liabilities": [
+                2107800
+            ],
+            "nameAliases": [
+                "Sam",
+                "Shubham",
+                "Individual"
+            ],
+            "maritalStatus": [
+                "married"
+            ],
+            "spouse": [
+                "Jaan"
+            ]
+        },
+        "demographicData": {
+            "country": [
+                "India"
+            ],
+            "zipCode": [
+                "Thane",
+                "Raigard"
+            ],
+            "city": [
+                "Navi Mumbai",
+                "Kharghar"
+            ],
+            "state": [
+                "Maharashtra"
+            ],
+            "age": []
+        },
+        "otherData": {
+            "calculatorUsed": [
+                "NetWorthCalculator"
+            ]
+        }
+    },
+    "systemProperties": {
+        "lastUpdated": "2025-10-15T06:38:31Z"
+    },
+    "segments": [],
+    "scores": {},
+    "consents": {}
+}
